@@ -47,3 +47,20 @@ Perform a statistical analysis of automobile performance using R
 
 ## Study Design: MechaCar vs Competition
 
+There are many reasons and factors that consumers consider before purchasing a car. With ridesharing on the rise, the app convenience, relatively affordable prices, and availability of these rideshares, affordablility and effectiveness need to be considered when manufactoring and marketing a car. Consumers are likely to look for an affordable and easy to maintain mode of transportation. 
+
+#### Metric to test:
+- maintenance costs
+- cost of vehicle
+
+#### Null and Alternate Hypothesis:
+
+H0: MechaCars prototypes' average maintenance costs is similar to competitor vehicles in the same class. 
+Ha: MechaCar prototypes' average maintenance costs is statistically above or below that of competitor vehicles.
+
+#### Statistical Test to Use
+Two sample T-Test
+
+#### Data Needed
+Gather maintenace cost data from all MechaCar prototypes as well as from major competitor vehicles
+Use simple linear regression to test the hypothesis
