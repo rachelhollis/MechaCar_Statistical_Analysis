@@ -21,3 +21,18 @@ Perform a statistical analysis of automobile performance using R
 ![images/lot_summary.png](images/lot_summary.png)
 
 - The specs for the MechaCoil suspension coils dictate that the variance of the suspension coils must not exceed 100 psi. Based on the Total Summary, the overall variance is below 100 psi and therefore meets the specifications. However, the lot summary stats shows that the variance for Lot 3 is well over the acceptable threshold (170.29)
+
+
+## T-Tests on Suspension Coils
+
+#### Suspension Coils cumulative T-Test
+![images/sum_t_test.png](images/sum_t_test.png)
+
+#### Lot 1 T-Test
+![images/lot1_t_test.png](images/lot1_t_test.png)
+
+#### Lot 2 T-Test
+![images/lot2_t_test.png](images/lot2_t_test.png)
+
+#### Lot 3 T-Test
+![images/lot3_t_test.png](images/lot3_t_test.png)
