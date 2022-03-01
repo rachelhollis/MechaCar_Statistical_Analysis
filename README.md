@@ -28,11 +28,19 @@ Perform a statistical analysis of automobile performance using R
 #### Suspension Coils cumulative T-Test
 ![images/sum_t_test.png](images/sum_t_test.png)
 
+- The T-Test across all the lots shows they are not a statistically different from the population mean of 1500. We can't reject the null hypothesis because the p-value is not low enough (0.06028)
+
 #### Lot 1 T-Test
 ![images/lot1_t_test.png](images/lot1_t_test.png)
+
+- The same conclusion can be made looking at the T-Test for Lot 1 with a p value of 1.
 
 #### Lot 2 T-Test
 ![images/lot2-t-test.png](images/lot2-t-test.png)
 
+- The same conclusion is reached as before (p-value = 0.6072)
+
 #### Lot 3 T-Test
 ![images/lot3-t-test.png](images/lot3-t-test.png)
+
+- T-Tests of Lot 3 show that the suspension coils are slightly statistically different from the population mean. The p-value (0.0417) is low enough to reject the null hypothesis. Further analysis of this lot might be necessary or it might need to be discarded.
