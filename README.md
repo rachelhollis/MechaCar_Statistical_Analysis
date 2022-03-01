@@ -32,7 +32,7 @@ Perform a statistical analysis of automobile performance using R
 ![images/lot1_t_test.png](images/lot1_t_test.png)
 
 #### Lot 2 T-Test
-![images/lot2_t_test.png](images/lot2_t_test.png)
+![images/lot2-t-test.png](images/lot2-t-test.png)
 
 #### Lot 3 T-Test
-![images/lot3_t_test.png](images/lot3_t_test.png)
+![images/lot3-t-test.png](images/lot3-t-test.png)
