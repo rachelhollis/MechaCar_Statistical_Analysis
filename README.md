@@ -44,3 +44,6 @@ Perform a statistical analysis of automobile performance using R
 ![images/lot3-t-test.png](images/lot3-t-test.png)
 
 - T-Tests of Lot 3 show that the suspension coils are slightly statistically different from the population mean. The p-value (0.0417) is low enough to reject the null hypothesis. Further analysis of this lot might be necessary or it might need to be discarded.
+
+## Study Design: MechaCar vs Competition
+
