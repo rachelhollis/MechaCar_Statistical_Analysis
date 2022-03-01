@@ -2,12 +2,7 @@
 
 Perform a statistical analysis of automobile performance using R
 
-## Overview
-
-
-## Analysis
-
-### Linear Regression to Predict MPG
+## Linear Regression to Predict MPG
 
 ![images/call1.png](images/call1.png)
 ![images/call2-values.png](images/call2-values.png)
@@ -17,7 +12,7 @@ Perform a statistical analysis of automobile performance using R
 - The r-squared value is .7149 indicating that there is a 71.48% chance that any future data points will fit this model. The linear model does predict the MechaCar prototypes effectively. There is most likely still unconsidered factors but the model is relatively effective. 
 
 
-### Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coils
 
 #### Total Summary
 ![images/total_summary.png](images/total_summary.png)
